@@ -11,4 +11,8 @@ Site criado para obter nota na Disciplina de Programação Web I
 
 
 ### Images
-![Review](/images/review1.jpg) | ![Review](/images/review2.jpg) | ![Review3](/images/review3.jpg)
+<p align="center">
+    <img src="/images/review1.jpg" width="300" />
+    <img src="/images/review2.jpg" width="300" />
+    <img src="/images/review3.jpg" width="300" />
+</p>
