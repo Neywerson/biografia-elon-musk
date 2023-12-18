@@ -11,4 +11,4 @@ Site criado para obter nota na Disciplina de Programação Web I
 
 
 ### Images
-![Review](/images/review1.jpg) ![Review](/images/review2.jpg) ![Review3](/images/review3.jpg)
+![Review](/images/review1.jpg) | ![Review](/images/review2.jpg) | ![Review3](/images/review3.jpg)
